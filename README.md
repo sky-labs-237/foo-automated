@@ -1,2 +1,2 @@
 # foo-automated
-# test uno
+# test
